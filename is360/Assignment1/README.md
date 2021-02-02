@@ -12,7 +12,7 @@ The pages were developed using VS Code and the Safari 14.0.2 web browser. The va
 
 ## Running
 
-First clone the repository using `git clone /repo`.
+First clone the repository using `git clone https://github.com/carlmontemayor/is360.git`.
 
 Once downloaded, it can be ran using text editors such as VS Code or Visual Studio. The pages can also be opened via any browser.
 
